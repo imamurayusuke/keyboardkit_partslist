@@ -23,9 +23,9 @@
 
 #### 使用フォント
 
-- [A-OTF 新ゴ Pr6N R](https://www.morisawa.co.jp/fonts/specimen/1479)…本文に使いました。□にCやKが入っている文字もこれです。
+- [A-OTF 新ゴ Pr6N R](https://www.morisawa.co.jp/fonts/specimen/1479)…本文に使いました。□にCやKが入っている文字（ 🄲など）もこれです。
 - [A-OTF 新ゴ Pr6N DB](https://www.morisawa.co.jp/fonts/specimen/1474)…「記入例（Helix5行版両手の場合）」という部分に使いました。
-- [源柔ゴシック](http://jikasei.me/font/genjyuu/)…記号類（✓、✘など）の表記に使いました。
+- [源柔ゴシック](http://jikasei.me/font/genjyuu/)…記号類（✔、✘など）の表記に使いました。
 
 ### ``keyboardkit_partslist.pdf``
 

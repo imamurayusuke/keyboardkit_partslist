@@ -1,0 +1,41 @@
+●同梱 ✔別売品 ▲お好みで ✘非対応
+
+Pro Micro（　　）個
+コンスルー*
+OLEDモジュール
+キースイッチ（　　）個 🄲 🄺
+キーキャップ（　　）個 🄲 🄺
+スイッチ用PCBソケット（　　）個 🄲 🄺
+ステレオミニプラグケーブル  □3極  □4極
+アンダーグロウ用LED…WS2812B（　　）個×（　　）本
+バックライト用LED…□SK6812mini □3mm砲弾型**（　　）個
+マイクロUSBケーブル
+
+ビルドガイド（日本語）
+
+🄲helly MX  🄺ailh Choc***
+このほか、PCBプレートやカバープレート、ダイオード、ねじやスペーサなどが含まれます
+*「コンスルー」は「スプリングピンヘッダ」とも呼ばれます
+**砲弾型のLEDを実装する場合、別途抵抗が必要です
+***Kailh Chocはロープロファイルのキースイッチです
+
+●Included ✔Required ▲Optional ✘Not supported
+
+Pro Micro ×（　　）
+Conthrough*
+OLED module
+Keyswitches ×（　　） 🄲 🄺
+Keycaps×（　　） 🄲 🄺
+PCB socket（　　） 🄲 🄺
+□TRS cable  □TRRS cable
+LED for underglow …WS2812B（　　）LEDs×（　　）strips
+LED for backlight…□SK6812mini □3mm shell type** ×（　　）
+MicroUSB cable
+
+build guide（English）
+
+🄲helly MX  🄺ailh Choc***
+Also included PCB plate, cover plate, diodes, screws, spacers, etc.
+*Conthrough is also called “Spring Pin Header”.
+**Shell type LED needs resistance.
+***Kailh Choc is low profile switch.

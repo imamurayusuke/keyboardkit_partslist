@@ -39,6 +39,10 @@
 
 ``keyboardkit_partslist_outlined.ai``をSVG形式で保存しました。
 
+### ``plaintext.txt``
+
+``keyboardkit_partslist.ai``の「このレイヤーを印刷」レイヤーに含まれる文字を、プレーンなテキストファイルにしたものです。
+
 ## ライセンス
 
 すべてのファイルをMITライセンスで提供します。
